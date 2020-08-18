@@ -5,10 +5,10 @@
     width: 80%;
     margin: auto;
 }
-.evolutionBox span{
+.evolutionBox img{
     cursor: pointer;
-    display: block;
-    padding:10px;
+    
+    
 }
 .under{
     width: 100%;
