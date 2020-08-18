@@ -1,0 +1,32 @@
+.main{
+    background-color: red;
+    border-right: solid 1px gray;
+    border-left: solid 1px gray;
+    transition: 200ms;
+}
+.topDisplay{
+    margin:auto;
+    width: 80%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    height:120px;
+}
+.topDisplay h2, .topDisplay h4{
+    margin-bottom: 5px;
+    margin-top: 1px;
+}
+
+.topDisplay .imgBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 30%;
+    text-align: center;
+    
+    
+}
+.topDisplay .imgBox img{
+    align-self: center;
+    height: 100%;
+}

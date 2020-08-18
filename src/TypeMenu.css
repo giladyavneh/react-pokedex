@@ -1,0 +1,27 @@
+.typeMenu{
+    position: absolute;
+    width: 100%;
+    transition: 200ms;
+    max-height: 22px;
+    overflow-y: scroll;
+}
+.typeMenu .buttons{
+    display: flex;
+    padding:0px;
+    margin-bottom: 0px;
+}
+.typeMenu .buttons button{
+    flex-grow: 1;
+}
+.content{
+    background-color: white;
+    height: auto;
+}
+.content ul{
+    margin:0px;
+    padding:0px;
+}
+.content ul li{
+    list-style: none;
+    cursor: pointer;
+}

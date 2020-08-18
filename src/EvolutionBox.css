@@ -1,0 +1,20 @@
+.evolutionBox{
+    text-align: center;
+    transition: 200ms;
+    background-color: gray;
+    width: 80%;
+    margin: auto;
+}
+.evolutionBox span{
+    cursor: pointer;
+    display: block;
+    padding:10px;
+}
+.under{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container{
+    width: 100%;
+}

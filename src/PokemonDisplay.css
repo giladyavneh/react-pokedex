@@ -1,0 +1,7 @@
+.pokemonDisplay{
+    min-width: 20%;
+    position: relative;
+}
+.typeBox{
+    height:22px;
+}
